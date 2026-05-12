@@ -1,0 +1,1 @@
+# mba-desafio-ingestao-busca--langchain-postgres
